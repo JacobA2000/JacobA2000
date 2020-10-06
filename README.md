@@ -36,9 +36,15 @@
 <br />
 <br />
 
+---
+
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+---
+
+<img align="left" alt="JacobA2000's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JacobA2000&show_icons=true&hide_border=true">
 
 [website]: https://www.jacoballen.co.uk
 [twitter]: https://twitter.com/notjacoballen
