@@ -38,6 +38,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python: Make a Discord bot (#10 - Tasks)](https://www.youtube.com/watch?v=2Km0Ie-QdsU)
+- [Python: Make a Discord bot (#9 - Mute/Unmute)](https://www.youtube.com/watch?v=GjvcedFUtDw)
+- [Python: Make a Discord bot (#8 - Custom Help)](https://www.youtube.com/watch?v=LOZKH1d7EXY)
+- [Python: Make a Discord bot (#7 - Embeds)](https://www.youtube.com/watch?v=lPzoe8crkAA)
+- [Python: Make a Discord bot (#6 - Activity)](https://www.youtube.com/watch?v=FMMWjFian-A)
 <!-- YOUTUBE:END -->
 
 [website]: https://www.jacoballen.co.uk
