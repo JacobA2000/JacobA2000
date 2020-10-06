@@ -1,7 +1,7 @@
-### Hi there, I'm Jacob - aka [Hypezz][website] 👋
+### Hi there, I'm Jacob - aka [Hypezz][website]
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=jacoballen.co.uk&style=for-the-badge&url=https://jacoballen.co.uk)](https://jacoballen.co.uk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/notjacoballen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnotjacoballen&screen_name=notjacoballen)
 
 ## I'm passionate about Programming, Tech and Video Games.
 
