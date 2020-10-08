@@ -40,11 +40,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Python: Make a Discord bot (#12 - Cogs)](https://www.youtube.com/watch?v=FCPUn15d1Wg)
 - [Python: Make a Discord bot (#11 - FREE Heroku Hosting)](https://www.youtube.com/watch?v=OOmH0eBVpcw)
 - [Python: Make a Discord bot (#10 - Tasks)](https://www.youtube.com/watch?v=2Km0Ie-QdsU)
 - [Python: Make a Discord bot (#9 - Mute/Unmute)](https://www.youtube.com/watch?v=GjvcedFUtDw)
 - [Python: Make a Discord bot (#8 - Custom Help)](https://www.youtube.com/watch?v=LOZKH1d7EXY)
-- [Python: Make a Discord bot (#7 - Embeds)](https://www.youtube.com/watch?v=lPzoe8crkAA)
 <!-- YOUTUBE:END -->
 
 ---
