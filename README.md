@@ -40,7 +40,7 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Python: Make a Discord bot (#10 - Banned Words)](https://www.youtube.com/watch?v=Asqvv73V8xo)
+- [Python: Make a Discord bot (#14 - Banned Words)](https://www.youtube.com/watch?v=Asqvv73V8xo)
 - [Python: Make a Discord bot (#13 - Block Pings)](https://www.youtube.com/watch?v=kt-6lYYhuHE)
 - [Python: Make a Discord bot (#12 - Cogs)](https://www.youtube.com/watch?v=FCPUn15d1Wg)
 - [Python: Make a Discord bot (#11 - FREE Heroku Hosting)](https://www.youtube.com/watch?v=OOmH0eBVpcw)
