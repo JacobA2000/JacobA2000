@@ -40,11 +40,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [An Update](https://www.youtube.com/watch?v=20cRYlSPaYE)
 - [Python: Make a Discord bot (#14 - Banned Words)](https://www.youtube.com/watch?v=Asqvv73V8xo)
 - [Python: Make a Discord bot (#13 - Block Pings)](https://www.youtube.com/watch?v=kt-6lYYhuHE)
 - [Python: Make a Discord bot (#12 - Cogs)](https://www.youtube.com/watch?v=FCPUn15d1Wg)
 - [Python: Make a Discord bot (#11 - FREE Heroku Hosting)](https://www.youtube.com/watch?v=OOmH0eBVpcw)
-- [Python: Make a Discord bot (#10 - Tasks)](https://www.youtube.com/watch?v=2Km0Ie-QdsU)
 <!-- YOUTUBE:END -->
 
 ---
