@@ -40,11 +40,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Programming Basics (#3 - IDES)](https://www.youtube.com/watch?v=a98TEGcQRCg)
 - [Programming Basics (#2 - Programming Languages)](https://www.youtube.com/watch?v=M8OFPXZdd28)
 - [Programming Basics (#1 - Introduction)](https://www.youtube.com/watch?v=1woxlU7EhWg)
 - [An Update](https://www.youtube.com/watch?v=20cRYlSPaYE)
 - [Python: Make a Discord bot (#14 - Banned Words)](https://www.youtube.com/watch?v=Asqvv73V8xo)
-- [Python: Make a Discord bot (#13 - Block Pings)](https://www.youtube.com/watch?v=kt-6lYYhuHE)
 <!-- YOUTUBE:END -->
 
 ---
