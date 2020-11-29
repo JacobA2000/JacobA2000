@@ -40,11 +40,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Programming Basics (#3 - IDES)](https://www.youtube.com/watch?v=a98TEGcQRCg)
 - [Programming Basics (#2 - Programming Languages)](https://www.youtube.com/watch?v=M8OFPXZdd28)
+- [Programming Basics (#1 - Introduction)](https://www.youtube.com/watch?v=1woxlU7EhWg)
+- [An Update](https://www.youtube.com/watch?v=20cRYlSPaYE)
 - [Python: Make a Discord bot (#14 - Banned Words)](https://www.youtube.com/watch?v=Asqvv73V8xo)
-- [Python: Make a Discord bot (#3 - Commands)](https://www.youtube.com/watch?v=bq80J5rh4Cc)
-- [KATNISS IS A TERRORIST?! | CSGO Hunger Games! #1](https://www.youtube.com/watch?v=5flu2O9bhRo)
-- [Crazy Coloured Nametag Glitch | CSGO](https://www.youtube.com/watch?v=tJytwR5UzK8)
 <!-- YOUTUBE:END -->
 
 ---
