@@ -7,8 +7,8 @@
 
 - I am currently making a discord bot tutorial series on YouTube
 - I’m willing to learning everything
-- 2020 Goals: Code in wider range of languages
-- Fun fact: I love to play video games in my spare time
+- 2021 Goals: Code in wider range of languages
+- Hobbies: Drones, Photography and Video Games.
 
 ### Connect with me:
 
