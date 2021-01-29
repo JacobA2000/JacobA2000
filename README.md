@@ -5,7 +5,6 @@
 
 ## I'm passionate about Programming, Tech and Video Games.
 
-- I am currently making a discord bot tutorial series on YouTube
 - I’m willing to learning everything
 - 2021 Goals: Code in wider range of languages
 - Hobbies: Drones, Photography and Video Games.
