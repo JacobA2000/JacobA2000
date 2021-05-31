@@ -6,26 +6,27 @@
 - 2021 Goals: Code in wider range of languages
 - Hobbies: Drones, Photography and Video Games.
 
-### Connect with me:
+### Find me elsewhere:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jacobjohnallen | Instagram" width="22px" src="img/social/instagram_logo.svg" />][website]
+[<img align="left" alt="Jacob Allen | YouTube" width="22px" src="img/social/youtube_logo.svg" />][youtube]
+[<img align="left" alt="Jacob John Allen | Twitter" width="22px" src="img/social/twitter_logo.svg" />][twitter]
+[<img align="left" alt="Jacob Allen | LinkedIn" width="22px" src="img/social/linkedin_logo.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="img/skills/python.svg" />
+<img align="left" alt="HTML" width="26px" src="img/skills/html.svg" />
+<img align="left" alt="CSS" width="26px" src="img/skills/css.svg" />
+<img align="left" alt="SASS" width="26px" src="img/skills/sass.svg" />
+<img align="left" alt="JavaScript" width="26px" src="img/skills/js.svg" />
+<img align="left" alt="php" width="26px" src="img/skills/php.svg" />
+<img align="left" alt="Linux" width="26px" src="img/skills/linux.svg" />
+<img align="left" alt="git" width="26px" src="img/skills/git.svg" />
+<img align="left" alt="Markdown" width="26px" src="img/skills/markdown.svg" />
+<img align="left" alt="Adobe" width="26px" src="img/skills/adobe.svg" />
 
 <br />
 <br />
@@ -43,10 +44,8 @@
 
 ---
 
-<img align="left" alt="JacobA2000's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JacobA2000&show_icons=true&hide_border=true">
-
 [website]: https://www.jacoballen.co.uk
-[twitter]: https://twitter.com/notjacoballen
+[twitter]: https://twitter.com/jacobjohnallen
 [youtube]: https://www.youtube.com/channel/UCl81IQbArFVCcPpYSPi9dUA
-[instagram]: https://instagram.com/j_allen2000
+[instagram]: https://instagram.com/jacobjohnallen
 [linkedin]: https://www.linkedin.com/in/jacob-allen-4654221b8/
