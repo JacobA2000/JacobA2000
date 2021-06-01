@@ -44,7 +44,7 @@
 
 ---
 
-[website]: https://www.jacoballen.co.uk
+[website]: https://jacoballen.dev
 [twitter]: https://twitter.com/jacobjohnallen
 [youtube]: https://www.youtube.com/channel/UCl81IQbArFVCcPpYSPi9dUA
 [instagram]: https://instagram.com/jacobjohnallen
