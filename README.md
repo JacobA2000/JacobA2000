@@ -8,7 +8,7 @@
 
 ### Find me elsewhere:
 
-[<img align="left" alt="jacobjohnallen | Instagram" width="22px" src="img/social/instagram_logo.svg" />][website]
+[<img align="left" alt="jacobjohnallen | Instagram" width="22px" src="img/social/instagram_logo.svg" />][instagram]
 [<img align="left" alt="Jacob Allen | YouTube" width="22px" src="img/social/youtube_logo.svg" />][youtube]
 [<img align="left" alt="Jacob John Allen | Twitter" width="22px" src="img/social/twitter_logo.svg" />][twitter]
 [<img align="left" alt="Jacob Allen | LinkedIn" width="22px" src="img/social/linkedin_logo.svg" />][linkedin]
