@@ -23,16 +23,13 @@
 <img align="left" alt="SASS" width="26px" src="img/skills/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="img/skills/js.svg" />
 <img align="left" alt="php" width="26px" src="img/skills/php.svg" />
+<img align="left" alt="php" width="26px" src="img/skills/unity.svg" />
 <img align="left" alt="Linux" width="26px" src="img/skills/linux.svg" />
 <img align="left" alt="git" width="26px" src="img/skills/git.svg" />
 <img align="left" alt="Markdown" width="26px" src="img/skills/markdown.svg" />
 <img align="left" alt="Adobe" width="26px" src="img/skills/adobe.svg" />
 
 <br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobA2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
