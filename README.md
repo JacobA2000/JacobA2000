@@ -1,10 +1,10 @@
 ### Hi there, I'm [Jacob][website]
 
-## I'm passionate about Programming, Tech and Video Games.
+## I'm passionate about Programming, Tech and XR.
 
-- I’m willing to learning everything
-- 2021 Goals: Code in wider range of languages
-- Hobbies: Drones, Photography and Video Games.
+- I’m willing to learn everything
+- 2022 Goals: Learn Rust, Learn Japanese and develop my skills further.
+- Hobbies: Drones, Photography and XR.
 
 ### Find me elsewhere:
 
@@ -23,7 +23,7 @@
 <img align="left" alt="SASS" width="26px" src="img/skills/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="img/skills/js.svg" />
 <img align="left" alt="php" width="26px" src="img/skills/php.svg" />
-<img align="left" alt="php" width="26px" src="img/skills/unity.svg" />
+<img align="left" alt="unity" width="26px" src="img/skills/unity.svg" />
 <img align="left" alt="Linux" width="26px" src="img/skills/linux.svg" />
 <img align="left" alt="git" width="26px" src="img/skills/git.svg" />
 <img align="left" alt="Markdown" width="26px" src="img/skills/markdown.svg" />
