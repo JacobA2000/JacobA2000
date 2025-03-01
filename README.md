@@ -1,16 +1,13 @@
-### Hi there, I'm [Jacob][website]
+### Hi there, I'm Jacob
 
 ## I'm passionate about Programming, Tech and XR.
 
 - I’m willing to learn everything
-- 2022 Goals: Learn Rust, Learn Japanese and develop my skills further.
 - Hobbies: Drones, Photography and XR.
 
 ### Find me elsewhere:
 
 [<img align="left" alt="jacobjohnallen | Instagram" width="22px" src="img/social/instagram_logo.svg" />][instagram]
-[<img align="left" alt="Jacob Allen | YouTube" width="22px" src="img/social/youtube_logo.svg" />][youtube]
-[<img align="left" alt="Jacob John Allen | Twitter" width="22px" src="img/social/twitter_logo.svg" />][twitter]
 [<img align="left" alt="Jacob Allen | LinkedIn" width="22px" src="img/social/linkedin_logo.svg" />][linkedin]
 
 <br />
@@ -31,21 +28,5 @@
 
 <br />
 
----
-
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Programming Basics &lpar;#3 - IDES&rpar;](https://www.youtube.com/watch?v=a98TEGcQRCg)
-- [Programming Basics &lpar;#2 - Programming Languages&rpar;](https://www.youtube.com/watch?v=M8OFPXZdd28)
-- [Programming Basics &lpar;#1 - Introduction&rpar;](https://www.youtube.com/watch?v=1woxlU7EhWg)
-- [An Update](https://www.youtube.com/watch?v=20cRYlSPaYE)
-- [Python: Make a Discord bot &lpar;#14 - Banned Words&rpar;](https://www.youtube.com/watch?v=Asqvv73V8xo)
-<!-- YOUTUBE:END -->
-
----
-
-[website]: https://jacoballen.dev
-[twitter]: https://twitter.com/jacobjohnallen
-[youtube]: https://www.youtube.com/channel/UCl81IQbArFVCcPpYSPi9dUA
 [instagram]: https://instagram.com/jacobjohnallen
 [linkedin]: https://www.linkedin.com/in/jacob-allen-4654221b8/
